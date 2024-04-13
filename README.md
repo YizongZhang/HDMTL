@@ -1,4 +1,4 @@
-# heterogeneous deep multi-task learning framework
+# Heterogeneous deep multi-task learning framework
 
 data: Dataset storage. Shared datasets Bronz et al are very much appreciated. Data download address: https://github.com/mrtbrnz/fault_detection/tree/master/data.
 
